@@ -10,14 +10,14 @@
 - At the moment I'm learning React and Spring Boot.  
   
 
-*<div align="center">Join me on my journey of becoming a full-stack developer!</div>*  
+### *<div align="center">Join me on my journey of becoming a full-stack developer!</div>*  
   
 
 <br/>  
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="50%">
+<table align="center"><tr><td valign="top" width="50%">
 
 
 
@@ -81,6 +81,3 @@
 </div>  
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
