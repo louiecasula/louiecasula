@@ -68,7 +68,18 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=louiecasula&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<table align="center" style="width: 100%; table-layout: fixed;"><tr>
+<td valign="top" style="width: 50%;">
+<img src="https://github-readme-stats.vercel.app/api?username=louiecasula&show_icons=true&count_private=true&hide_border=true" style="width: 100%; height: auto;" />
+</td>
+<td valign="top" style="width: 50%;">
+<a href="https://github.com/louiecasula/github-readme-stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=louiecasula&layout=donut" style="width: 100%; height: auto;" />
+</a>
+</td>
+</tr>
+</table>
+
 
 <br/>  
 
