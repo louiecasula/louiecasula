@@ -83,10 +83,6 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=louidoo27&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" /></div>  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=louiecasula&&style=flat-square" align="center" />
 </div>  
