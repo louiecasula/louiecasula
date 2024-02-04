@@ -7,7 +7,7 @@
 - I’m currently working on [Lingosphere](https://github.com/louiecasula/lingosphereSpring), a multilingual word-of-the-day web application.  
   
 
-- At the moment I'm learning Flask.
+- At the moment I'm learning about Flask, React, and dynamic programming.
 
 
 - I recently finished ZipCodeWilmington's Java Software Development Program and I'm open for work! 
