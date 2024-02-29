@@ -1,17 +1,13 @@
 # Louie Casula  
   
 
-### <div align="center">I'm Louie, a recent graduate from the University of Delaware in Linguistics and Foreign Languages</div>  
-  
+### <div align="center">I'm Louie, a recent graduate from the University of Delaware in Linguistics and Foreign Languages</div> 
 
-- I’m currently working on [Lingosphere](https://github.com/louiecasula/lingosphereSpring), a multilingual word-of-the-day web application.  
-  
+- I recently finished ZipCodeWilmington's Java Software Development Program where I learned to build full-stack applications using Spring Boot and React (and I'm open for work!) 
 
-- At the moment I'm learning about Flask, React, and dynamic programming.
+- In the meantime I've been learning more about web development via [The Odin Project](https://www.theodinproject.com) and data structures & algorithms by doing daily [LeetCode](https://leetcode.com/Louidoo27/) problems.
 
-
-- I recently finished ZipCodeWilmington's Java Software Development Program and I'm open for work! 
-  
+- I’m also working on [Lingosphere](https://github.com/louiecasula/lingosphereSpring), a multilingual word-of-the-day web application in Spring Boot and React with a Postgres database.
 
 ### *<div align="center">Join me on my journey of becoming a full-stack developer!</div>*  
   
@@ -85,9 +81,3 @@
 
 
 <br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=louiecasula&&style=flat-square" align="center" />
-</div>  
-
-<br />
