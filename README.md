@@ -7,9 +7,10 @@
 
 - In the meantime I've been learning more about web development via [The Odin Project](https://www.theodinproject.com) and data structures & algorithms by doing daily [LeetCode](https://leetcode.com/Louidoo27/) problems.
 
-- I’m also working on [Lingosphere](https://github.com/louiecasula/lingosphereSpring), a multilingual word-of-the-day web application in Spring Boot and React with a Postgres database.
+- I’m currently assisting on an object detection project with the University of Delaware. This project uses Python and OpenCV to detect different vehicles and pedestrians in traffic footage.
 
-### *<div align="center">Join me on my journey of becoming a full-stack developer!</div>*  
+### *<div align="center">Join me on my journey of becoming a full stack developer!</div>*  
+### *<div align="center">[Check out my website](https://louiecasula.github.io/Portfolio/)</div>* 
   
 
 <br/>  
